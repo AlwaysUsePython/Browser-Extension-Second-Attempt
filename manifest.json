@@ -1,0 +1,17 @@
+{
+    
+    "manifest_version": 2,
+    "name": "Content Extension Test",
+    "version": 1,
+    "content_scripts":[
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+
+            "js":"content.js"
+        }
+    ]
+
+
+}

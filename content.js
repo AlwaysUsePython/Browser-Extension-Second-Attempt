@@ -1,0 +1,1 @@
+console.log("Chrome Extension ready to go!")
